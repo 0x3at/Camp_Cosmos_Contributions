@@ -2,7 +2,7 @@
  A repo containing all of my contributions to the Camp Cosmos community
 
 # Programs
-Prgrams are within the Contributions folder under Python Scripts, the standalone executables can be downloaded and ran without any installation of python.
+Programs are within the Contributions folder under Python Scripts, the standalone executables can be downloaded and ran without any installation of python.
 src files are found in the src folder of the directory and contain all raw code.
 
 The discord gif and sticker converter can be used to turn any image into a discord sticker and gif.
