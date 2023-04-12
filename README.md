@@ -1,4 +1,4 @@
-# Camp_Cosmos_Contributions
+# Camp Cosmos Contributions
  A repo containing all of my contributions to the Camp Cosmos community
 
 # Programs
